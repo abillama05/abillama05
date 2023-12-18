@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abillama05
 - 👀 I’m interested in Data Science and bioinformatics. I want to see where technology and the environment intersect.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on being introduced to bioinformatics.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me : abillama0530@gmail.com
 
 <!---
