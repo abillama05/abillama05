@@ -1,9 +1,16 @@
-![#FFC0CB](https://placehold.co/15x15/f03c15/ffc0cb.png)`#FFC0CB`
--  👋 Hi, I’m @abillama05
-- 👀 I’m interested in Data Science and bioinformatics. I want to see where technology and the environment intersect.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me : abillama0530@gmail.com
 
+<h1 align="center">Hi 👋, I'm Ruth</h1>
+<h3 align="center">Environmentalist and Computer Scientist</h3>
+
+- 🔭 I’m currently working on **starting with open source!**
+
+- 🌱 I’m currently learning **Python**
+
+- 📫 How to reach me **ruthvcs070@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <!---
 abillama05/abillama05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
