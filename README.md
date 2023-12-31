@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @abillama05
+![#FFC0CB](https://placehold.co/15x15/f03c15/f03c15.png)`#FFC0CB`
+-  👋 Hi, I’m @abillama05
 - 👀 I’m interested in Data Science and bioinformatics. I want to see where technology and the environment intersect.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me : abillama0530@gmail.com
