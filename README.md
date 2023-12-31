@@ -1,4 +1,4 @@
-![#FFC0CB](https://placehold.co/15x15/f03c15/f03c15.png)`#FFC0CB`
+![#FFC0CB](https://placehold.co/15x15/f03c15/ffc0cb.png)`#FFC0CB`
 -  👋 Hi, I’m @abillama05
 - 👀 I’m interested in Data Science and bioinformatics. I want to see where technology and the environment intersect.
 - 🌱 I’m currently learning Python.
