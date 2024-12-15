@@ -9,6 +9,7 @@
 - 📫 How to reach me **ruthvcs070@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<h2 aligh="left"><a href="(https://www.linkedin.com/in/ruth-velasquez070/)">LinkedIn</a>
 <p align="left">
 </p>
 <!---
